@@ -1,6 +1,8 @@
 import tkinter as tk
 from functools import partial
 
+# test
+
 def button_click(value):
     if value == "ENT":
         # Hier die Logik für die Eingabebehandlung implementieren
