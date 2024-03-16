@@ -1,7 +1,7 @@
 import tkinter as tk
 from functools import partial
 
-# test
+# test ist immer gut
 
 def button_click(value):
     if value == "ENT":
